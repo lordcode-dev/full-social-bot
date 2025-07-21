@@ -1,1 +1,1 @@
-# full-social-bot
+# Placeholder for README.md
